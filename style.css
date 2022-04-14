@@ -1,0 +1,7 @@
+.dino {
+    width: 60px;
+    height: 60px;
+    background: green;
+    position: absolute; /* o elemento fica na posição que vc definir, independente do que tiver em volta */
+    bottom: 0;
+}
