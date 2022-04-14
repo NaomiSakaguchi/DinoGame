@@ -5,3 +5,11 @@
     position: absolute; /* o elemento fica na posição que vc definir, independente do que tiver em volta */
     bottom: 0;
 }
+
+.cactus {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    bottom: 0;
+    background: red;
+}
